@@ -1,1 +1,2 @@
-(captura.png)
+![Texto alternativo](captura.png)
+
