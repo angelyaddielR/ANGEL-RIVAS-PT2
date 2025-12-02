@@ -10,12 +10,12 @@ Para crear una carpeta hay que hacer lo mismo que en lo de subir un archivo le d
 
 
 ## Carpeta compartida
-![Texto alternativo](23032008.png)
+![Texto alternativo](captura8.png)
 
 Una vegada ja tinguis la carpeta creada per a compartir-la li hauràs de donar a una persona que té un + a dalt.
 
 ## Creació de usuarios
-![Texto alternativo](usuario.png)
+![Texto alternativo](captura9.png)
 
 Aquí tenim els usuaris creats als quals li anem compartir la presentació.
 
