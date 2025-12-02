@@ -12,5 +12,7 @@
 ## Creació de usuarios
 
 ![Texto alternativo](permisos.png)
+## Assignació de rols i permisos
+
 
 
