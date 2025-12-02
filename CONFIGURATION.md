@@ -25,8 +25,9 @@ Una vegada ja tinguis la carpeta creada per a compartir-la li hauràs de donar a
 ## Assignació de rols i permisos
 ![Texto alternativo](permisos.png)
 ----------------------------------------
+
 ## Organització de carpetes i fitxers
-![Texto alternativo](organizacion.png)
+![Texto alternativo](captura5.png)
 ![Texto alternativo](carpetas.png)
 
 
