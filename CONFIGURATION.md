@@ -12,6 +12,8 @@ Para crear una carpeta hay que hacer lo mismo que en lo de subir un archivo le d
 ## Carpeta compartida
 ![Texto alternativo](23032008.png)
 
+Una vegada ja tinguis la carpeta creada per a compartir-la li hauràs de donar a una persona que té un + a dalt.
+
 ## Creació de usuarios
 ![Texto alternativo](usuario.png)
 
