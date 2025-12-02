@@ -16,6 +16,7 @@
 ----------------------------------------
 ## Organització de carpetes i fitxers
 ![Texto alternativo](organizacion.png)
+![Texto alternativo](carpeta.png)
 
 
 
