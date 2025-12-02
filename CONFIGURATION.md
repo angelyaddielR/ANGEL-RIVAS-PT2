@@ -1,9 +1,9 @@
-![Texto alternativo](captura.png)
 ## Demostració del funcionament
+![Texto alternativo](captura.png)
 
+## Creació de la carpeta
 
 ![Texto alternativo](captura2.png)
-## Creació de la carpeta
 
 ![Texto alternativo](23032008.png)
 ## Carpeta compartida
