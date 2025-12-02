@@ -27,8 +27,8 @@ Una vegada ja tinguis la carpeta creada per a compartir-la li hauràs de donar a
 ----------------------------------------
 
 ## Organització de carpetes i fitxers
-![Texto alternativo](captura5.png)
-![Texto alternativo](carpetas.png)
+![Texto alternativo](captura5.png)  ![Texto alternativo](captura3.png)
+
 
 
 
