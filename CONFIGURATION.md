@@ -1,5 +1,5 @@
 ## Demostració del funcionament
-![Texto alternativo](captura.png)
+![Texto alternativo](captura1.png)
 
 En la primera imatge comprovem el funcionament del programa.
 
