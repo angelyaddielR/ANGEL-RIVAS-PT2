@@ -17,13 +17,13 @@ Aquí tenim els usuaris creats als quals li anem compartir la presentació.
 
 
 ## Carpeta compartida
-![Texto alternativo](captura8.png)
+![Texto alternativo]()
 
 Una vegada ja tinguis la carpeta creada per a compartir-la li hauràs de donar a una persona que té un + a dalt.
 
 
 ## Assignació de rols i permisos
-![Texto alternativo](permisos.png)
+![Texto alternativo](captura8.png)
 ----------------------------------------
 
 ## Organització de carpetes i fitxers
