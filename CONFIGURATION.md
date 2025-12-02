@@ -5,11 +5,12 @@
 
 ![Texto alternativo](captura2.png)
 
-![Texto alternativo](23032008.png)
 ## Carpeta compartida
+![Texto alternativo](23032008.png)
 
-![Texto alternativo](usuario.png)
 ## Creació de usuarios
+![Texto alternativo](usuario.png)
+
 
 ![Texto alternativo](permisos.png)
 ## Assignació de rols i permisos
