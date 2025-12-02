@@ -1,1 +1,2 @@
 # ANGEL-RIVAS-PT2
+[Practica](CONFIGURATION.md)
