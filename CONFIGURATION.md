@@ -19,5 +19,12 @@
 
 ## Organització de carpetes i fitxers
 ---------------------------------------------
+![Texto alternativo](otro.png)
+![Texto alternativo](otro2.png)
+
+## Accés des d’una màquina qualsevol de la xarxa
+
+
+
 
 
