@@ -6,7 +6,7 @@ En la primera imatge comprovem el funcionament del programa.
 ## Creació de la carpeta
 ![Texto alternativo](nuevacarpeta.png)
 
-crear una carpeta hay que hacer lo mismo que en lo de subir un archivo le damos al + nuevo y te saldrá la opción de crear nueva carpeta.
+Para crear una carpeta hay que hacer lo mismo que en lo de subir un archivo le damos al + nuevo y te saldrá la opción de crear nueva carpeta.
 
 
 ## Carpeta compartida
