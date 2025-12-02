@@ -17,6 +17,8 @@ Una vegada ja tinguis la carpeta creada per a compartir-la li hauràs de donar a
 ## Creació de usuarios
 ![Texto alternativo](usuario.png)
 
+Aquí tenim els usuaris creats als quals li anem compartir la presentació.
+
 ## Assignació de rols i permisos
 ![Texto alternativo](permisos.png)
 ----------------------------------------
