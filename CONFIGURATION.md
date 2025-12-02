@@ -11,4 +11,6 @@
 ![Texto alternativo](usuario.png)
 ## Creació de usuarios
 
+![Texto alternativo](permisos.png)
+
 
