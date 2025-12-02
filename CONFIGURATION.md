@@ -8,4 +8,7 @@
 ![Texto alternativo](23032008.png)
 ## Carpeta compartida
 
+![Texto alternativo](usuario.png)
+
+## Creació de usuarios
 
