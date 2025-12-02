@@ -16,9 +16,9 @@
 ----------------------------------------
 ## Organització de carpetes i fitxers
 ![Texto alternativo](organizacion.png)
-1
 
-## Organització de carpetes i fitxers
+
+
 ---------------------------------------------
 ## Accés des d’una màquina qualsevol de la xarxa
 ![Texto alternativo](otro.png)
