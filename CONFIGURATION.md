@@ -14,5 +14,8 @@
 ![Texto alternativo](permisos.png)
 ## Assignació de rols i permisos
 
+![Texto alternativo](organizacion.png)
+## Organització de carpetes i fitxers
+
 
 
